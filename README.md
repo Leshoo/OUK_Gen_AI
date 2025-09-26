@@ -1,14 +1,10 @@
 # 🌍 OUK Gen AI Project
 
-Welcome to the **OUK Gen AI** repository—a visionary initiative blending generative AI, youth mentorship, and cultural storytelling. This project is part of an ongoing journey to empower communities through digital literacy, structured learning, and creative innovation.
+Welcome to the **OUK Gen AI** repository—a visionary initiative blending generative AI.
 
 ## 🧠 Project Overview
 
-This repository contains foundational work in **Jac programming**, **Gen AI agent development**, and **environment setup** using tools like WSL, VS Code, and Python. It reflects a clean, professional workspace designed for:
-
-- Building intelligent agents with Jac
-- Mentoring youth in digital creativity and AI ethics
-- Showcasing structured design systems rooted in cultural identity
+This repository contains foundational work in **Jac programming**, **Gen AI agent development**, and **environment setup** using tools like WSL, VS Code, and Python. It reflects a clean, professional workspace designed for building intelligent agents with Jac
 
 Whether you're a fellow student, sponsor, or collaborator, you're invited to explore, contribute, and grow with this project.
 
@@ -25,7 +21,7 @@ He has also completed:
 - 🧠 **AI Literacy Skills Certified Course** from *Otermans Institute (OIAI)*
 - 🧠 **Diploma in Information Communication Technology** from *Rift Valley National Polytechnic (RVNP)*
 
-Godfrey is known as **“The Architect”**—a visionary who brings clarity, order, and meaning to creative and community work. He blends tradition with innovation, using design and leadership to empower youth and connect cultures.
+Godfrey is known as **“The Architect”**—a visionary who brings clarity, order and meaning to creative work.
 
 ## 🛠️ Tech Stack
 
